@@ -1,0 +1,18 @@
+:root {
+    --main-color-2 : #0a7956;
+    /* --main-color : #235784; */
+    /* --main-color : #40a8c4; */
+    /* --main-color: #641c1d; */
+    /* --main-color : #F7AA00; */
+    --main-color : #535878;
+    /* --main-color : #0e0bcc; */
+    /* --main-color-white : white; */
+    --main-color-white : #FFFFFF;
+    --main-color-black : #1d1d1d;
+    /* --main-color-gray :#ccc; */
+    --main-color-gray :gray;
+    --main-color-orange:orange;
+    --main-color-danger:red;
+    --main-color-success:#2ba968;
+    --main-color-footer:#212529;
+}
